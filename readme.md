@@ -24,8 +24,22 @@ Features:
 ![JEBEX enclosure](./JEBEXv2/img/photo_empty.png)
 
 
+## Rack Panel
 
+Proffesional A/V devices often comes in 19" rack format. For creating neat portable setups, connector panles are crucial. There are many readily available panels with various connector types and counts, features for cable tying, rack U heights from various companies lile Adam Hall or Thomann. But we did not really find a panel, that would suit our needs perfectly.
 
+Introducing: Manifold Rackpanel
+![rackpanel cad](./rack_panel/img/rackpanel_cad.png)
+
+Features:
+ - Standard 1U 19" size
+ - In-plane part (2 D-format coutouts, 4 BNC coutouts
+ - recessed section (12 D-format coutouts, 2 BNC coutouts)
+
+Our rackpanel is pimarily intended for portable wireless microphone systems.
+It is meant to be manufatured out of 1.5mm sheet metal.
+
+![rackpanel photo](./rack_panel/img/rackpanel_photo.jpg)
 
 
 
