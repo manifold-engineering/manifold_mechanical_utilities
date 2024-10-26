@@ -33,18 +33,30 @@ Introducing: Manifold Rackpanel
 
 Features:
  - Standard 1U 19" size
- - In-plane part (2 D-format coutouts, 4 BNC coutouts
- - recessed section (12 D-format coutouts, 2 BNC coutouts)
+ - In-plane part (2 D-format cutouts, 4 BNC cutouts
+ - recessed section (12 D-format cutouts, 2 BNC cutouts)
 
-Our rackpanel is pimarily intended for portable wireless microphone systems.
+Our rackpanel is pimarily intended for portable wireless microphone systems. Recessed part allows for cable connectors (standard straight XLR, powercon...) to be left in panel while the rack lid is closed.
+
+
 It is meant to be manufatured out of 1.5mm sheet metal.
 
 ![rackpanel photo](./rack_panel/img/rackpanel_photo.jpg)
 
 
 
+## AkuAmp
+
+Sometimes, small, battery powered audio amplifier with standard professional grade connections comes in handy. Either for location recording "loud monitoring", small scale PA use or whenever electrical outlet is not simply available.
+
+Manifold AkuAmp solves this.
+It allows you to neatly combine inexpensive material (cordless tools battery plate adapters, Chinese TPA3116 amplifier modules).
+
+![akuamp cad slicer](./akuamp/img/akuamp_cad_slicer.png)
 
 
+
+(real photo will add later)
 
 
 
